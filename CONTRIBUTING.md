@@ -433,7 +433,7 @@ Before submitting a PR, test:
       <a href="https://github.com/zogratis17" title="GitHub">🔗</a>
     </td>
     <td align="center">
-      <img src="https:/github.com/Sathiya7777.png" width="100px;" alt="Sathiya P"/><br />
+      <img src="https://github.com/Sathiya7777.png" width="100px;" alt="Sathiya P"/><br />
       <sub><b>Sathiya P</b></sub><br />
       <sub>Backend Engineering</sub><br />
       <a href="https://github.com/Sathiya7777" title="GitHub">🔗</a>
