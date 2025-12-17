@@ -427,22 +427,22 @@ Before submitting a PR, test:
       <a href="https://github.com/Archithasree-123" title="GitHub">🔗</a>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/100?text=HP" width="100px;" alt="Hari Prasath N T"/><br />
+      <img src="https://github.com/zogratis17.png" width="100px;" alt="Hari Prasath N T"/><br />
       <sub><b>Hari Prasath N T</b></sub><br />
       <sub>AI/ML Development</sub><br />
-      <a href="#" title="GitHub">🔗</a>
+      <a href="https://github.com/zogratis17" title="GitHub">🔗</a>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/100?text=SP" width="100px;" alt="Sathiya P"/><br />
+      <img src="https:/github.com/Sathiya7777.png" width="100px;" alt="Sathiya P"/><br />
       <sub><b>Sathiya P</b></sub><br />
       <sub>Backend Engineering</sub><br />
-      <a href="#" title="GitHub">🔗</a>
+      <a href="https://github.com/Sathiya7777" title="GitHub">🔗</a>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/100?text=AS" width="100px;" alt="Amritha Sree L K"/><br />
+      <img src="https://github.com/Amritha13012005.png" width="100px;" alt="Amritha Sree L K"/><br />
       <sub><b>Amritha Sree L K</b></sub><br />
       <sub>Frontend Development</sub><br />
-      <a href="#" title="GitHub">🔗</a>
+      <a href="https://github.com/Amritha13012005" title="GitHub">🔗</a>
     </td>
   </tr>
 </table>
