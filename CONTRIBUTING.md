@@ -4,6 +4,51 @@ Thank you for your interest in contributing to **AURA - AI Omnichannel Sales Age
 
 ---
 
+## � Contributors
+
+### Core Team (EY Techathon 6.0)
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Archithasree-123.png" width="100px;" alt="Architha Sree L K"/><br />
+      <sub><b>Architha Sree L K</b></sub><br />
+      <sub>Salesforce Development</sub><br />
+      <a href="https://github.com/Archithasree-123" title="GitHub">🔗</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/zogratis17.png" width="100px;" alt="Hari Prasath N T"/><br />
+      <sub><b>Hari Prasath N T</b></sub><br />
+      <sub>AI/ML Development</sub><br />
+      <a href="https://github.com/zogratis17" title="GitHub">🔗</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Sathiya7777.png" width="100px;" alt="Sathiya P"/><br />
+      <sub><b>Sathiya P</b></sub><br />
+      <sub>Backend Engineering</sub><br />
+      <a href="https://github.com/Sathiya7777" title="GitHub">🔗</a>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Amritha13012005.png" width="100px;" alt="Amritha Sree L K"/><br />
+      <sub><b>Amritha Sree L K</b></sub><br />
+      <sub>Frontend Development</sub><br />
+      <a href="https://github.com/Amritha13012005" title="GitHub">🔗</a>
+    </td>
+  </tr>
+</table>
+
+### Contribution Breakdown
+
+| Contributor | Role | Key Contributions |
+|-------------|------|-------------------|
+| **Architha Sree L K** | Salesforce Lead | CRM Integration, Einstein Copilot, n8n Workflows, Automation Architecture |
+| **Hari Prasath N T** | AI/ML Lead | Google Gemini Integration, Function Calling, NLP, Intent Detection |
+| **Sathiya P** | Backend Lead | State Management, Session Handling, API Design, Order Processing |
+| **Amritha Sree L K** | Frontend Lead | React Components, UI/UX Design, Responsive Layouts, Tailwind Styling |
+
+
+
+
 ## 🎯 Table of Contents
 
 - [Code of Conduct](#code-of-conduct)
@@ -414,47 +459,6 @@ Before submitting a PR, test:
 
 ---
 
-## � Contributors
-
-### Core Team (EY Techathon 6.0)
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/Archithasree-123.png" width="100px;" alt="Architha Sree L K"/><br />
-      <sub><b>Architha Sree L K</b></sub><br />
-      <sub>Salesforce Development</sub><br />
-      <a href="https://github.com/Archithasree-123" title="GitHub">🔗</a>
-    </td>
-    <td align="center">
-      <img src="https://github.com/zogratis17.png" width="100px;" alt="Hari Prasath N T"/><br />
-      <sub><b>Hari Prasath N T</b></sub><br />
-      <sub>AI/ML Development</sub><br />
-      <a href="https://github.com/zogratis17" title="GitHub">🔗</a>
-    </td>
-    <td align="center">
-      <img src="https://github.com/Sathiya7777.png" width="100px;" alt="Sathiya P"/><br />
-      <sub><b>Sathiya P</b></sub><br />
-      <sub>Backend Engineering</sub><br />
-      <a href="https://github.com/Sathiya7777" title="GitHub">🔗</a>
-    </td>
-    <td align="center">
-      <img src="https://github.com/Amritha13012005.png" width="100px;" alt="Amritha Sree L K"/><br />
-      <sub><b>Amritha Sree L K</b></sub><br />
-      <sub>Frontend Development</sub><br />
-      <a href="https://github.com/Amritha13012005" title="GitHub">🔗</a>
-    </td>
-  </tr>
-</table>
-
-### Contribution Breakdown
-
-| Contributor | Role | Key Contributions |
-|-------------|------|-------------------|
-| **Architha Sree L K** | Salesforce Lead | CRM Integration, Einstein Copilot, n8n Workflows, Automation Architecture |
-| **Hari Prasath N T** | AI/ML Lead | Google Gemini Integration, Function Calling, NLP, Intent Detection |
-| **Sathiya P** | Backend Lead | State Management, Session Handling, API Design, Order Processing |
-| **Amritha Sree L K** | Frontend Lead | React Components, UI/UX Design, Responsive Layouts, Tailwind Styling |
 
 ---
 
